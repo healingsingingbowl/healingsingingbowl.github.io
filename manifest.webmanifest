@@ -1,7 +1,7 @@
 {
-  "name": "아침 싱잉볼",
-  "short_name": "싱잉볼",
-  "description": "출근길 30초 싱잉볼 명상",
+  "name": "힐링 싱잉볼",
+  "short_name": "힐링 싱잉볼",
+  "description": "출근 전 30초, 종을 울리고 눈을 감는 시간",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
