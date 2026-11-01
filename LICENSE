@@ -1,0 +1,18 @@
+Copyright (c) 2026 @bunt.0_0 (Instagram). All rights reserved.
+
+힐링 싱잉볼 (https://healingsingingbowl.github.io)
+
+이 저장소의 코드, 디자인, 3D 모델, 사운드 설계는 저작권자의 소유입니다.
+웹사이트를 개인적으로 이용하는 것은 자유롭지만, 저작권자의 서면 허락 없이
+복제, 수정, 재배포하거나 상업적으로 이용할 수 없습니다.
+
+The code, design, 3D models and sound design in this repository are the
+property of the copyright holder. You may use the website for personal use.
+You may not copy, modify, redistribute or use any part of it commercially
+without prior written permission.
+
+---------------------------------------------------------------------------
+Third-party components (loaded from public CDNs, under their own licenses):
+
+- three.js r128 - MIT License - Copyright (c) 2010-2021 three.js authors
+- Pretendard - SIL Open Font License 1.1 - Copyright (c) 2021 Kil Hyung-jin

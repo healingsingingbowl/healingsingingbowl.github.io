@@ -1,0 +1,15 @@
+{
+  "name": "아침 싱잉볼",
+  "short_name": "싱잉볼",
+  "description": "출근길 30초 싱잉볼 명상",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ece4d8",
+  "theme_color": "#ece4d8",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
